@@ -7,3 +7,5 @@ A full derivation of the scheme may be found in the pdf.
 
 To run the code simply run the script 
 Crane_Keller_Box_inverse_viscosity.m
+
+Note that the inclusion of dissipation ($Ec \neq 0$) means that the boundary layer is no longer self-similar.
